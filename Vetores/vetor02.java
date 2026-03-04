@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class aula05 {
+public class vetor02 {
 
     public static Random random = new Random();
 
